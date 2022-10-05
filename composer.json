@@ -1,0 +1,13 @@
+{
+    "name": "mjt/style-studio",
+    "autoload": {
+        "psr-4": {
+            "Inc\\": "./src"
+        }
+    },
+    "require": {
+        "morilog/jalali": "3.*",
+        "cboden/ratchet": "^0.4.1"
+    },
+    "platform-check": false
+}
